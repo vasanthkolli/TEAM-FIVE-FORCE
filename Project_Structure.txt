@@ -1,0 +1,4 @@
+/mobile-app/ui
+/mobile-app/screens
+/mobile-app/ai-engine
+/mobile-app/ar-module
